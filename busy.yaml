@@ -1,0 +1,4 @@
+name: rtaudio
+projects:
+  - name: testrtaudio
+    type: executable

@@ -9,3 +9,7 @@ Makefile
 /m4
 /doc/Makefile.in
 /tests/Makefile.in
+
+.busy
+build
+
